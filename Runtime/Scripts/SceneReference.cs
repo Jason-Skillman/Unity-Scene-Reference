@@ -1,16 +1,15 @@
-using System;
-using System.Linq;
-using UnityEngine;
-using Object = UnityEngine.Object;
-#if UNITY_EDITOR
-using UnityEditor;
-using UnityEditor.SceneManagement;
-using UnityEditor.VersionControl;
-#endif
-
-namespace JasonSkillman.SceneRef
+namespace JasonSkillman.UnitySceneReference
 {
+    using System;
+    using System.Linq;
+    using UnityEngine;
     using System.IO;
+    using Object = UnityEngine.Object;
+#if UNITY_EDITOR
+    using UnityEditor;
+    using UnityEditor.SceneManagement;
+    using UnityEditor.VersionControl;
+#endif
 
     // Author: JohannesMP (2018-08-12), 2019 S. Tarık Çetin, Tymski, MIT license
 
