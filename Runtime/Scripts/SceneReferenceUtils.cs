@@ -1,4 +1,4 @@
-﻿namespace JasonSkillman.SceneRef
+﻿namespace JasonSkillman.UnitySceneReference
 {
 	using System;
 

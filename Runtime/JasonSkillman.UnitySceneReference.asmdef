@@ -1,6 +1,6 @@
 {
-    "name": "JasonSkillman.SceneReference",
-    "rootNamespace": "JasonSkillman.SceneRef",
+    "name": "JasonSkillman.UnitySceneReference",
+    "rootNamespace": "JasonSkillman.UnitySceneReference",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
